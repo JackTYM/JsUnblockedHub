@@ -93,6 +93,26 @@
       "location": "swfs/bad_ice_cream.swf",
       "title": "Bad Ice Cream",
       "type": "Game"
+    },
+    {
+      "location": "swfs/the_binding_of_isaac.swf",
+      "title": "The Binding of Isaac",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/btd4.swf",
+      "title": "Bloons TD 4",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/btd5.swf",
+      "title": "Bloons TD 5",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/happy_wheels.swf",
+      "title": "Happy Wheels",
+      "type": "Game"
     }
   ]
 }
