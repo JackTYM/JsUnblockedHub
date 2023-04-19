@@ -68,6 +68,26 @@
       "author": "Tom Fulp",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/kids_vs_icecream.swf",
+      "title": "Kids Vs Ice Cream",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/raft_wars.swf",
+      "title": "Raft Wars",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/duck_life_4.swf",
+      "title": "Duck Life 4",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/learn_to_fly_3.swf",
+      "title": "Learn To Fly 3",
+      "type": "Game"
     }
   ]
 }
