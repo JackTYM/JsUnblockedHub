@@ -88,6 +88,11 @@
       "location": "swfs/learn_to_fly_3.swf",
       "title": "Learn To Fly 3",
       "type": "Game"
+    },
+    {
+      "location": "swfs/bad_ice_cream.swf",
+      "title": "Bad Ice Cream",
+      "type": "Game"
     }
   ]
 }
